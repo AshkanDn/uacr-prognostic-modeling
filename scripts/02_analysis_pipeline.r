@@ -1,5 +1,5 @@
 ############################################################
-# FINAL ANALYSIS PIPELINE (MODULAR, SYNCED, REVIEWED)
+# FINAL ANALYSIS PIPELINE
 # Study: Baseline Albuminuria and Systemic Vascular Risk
 # Design: Incident type 2 diabetes cohort (CPRD-GOLD linked to HES & ONS)
 #

@@ -4,7 +4,7 @@
 # Generates:
 #   - Table 1: Baseline Characteristics (with SMD)
 #   - Table 2: Event Counts & Incidence Rates
-# COMPLIANCE: STROBE (SMD instead of p-values) [[1,4]]
+# COMPLIANCE: STROBE
 ############################################################
 ############################################################
 
@@ -21,8 +21,7 @@ log_msg("📊 GENERATING BASELINE & EVENT TABLES")
 # STANDARDIZED MEAN DIFFERENCE (SMD) CALCULATION
 ############################################################
 # SMD measures covariate balance between exposure groups
-# Threshold: SMD > 0.1 indicates meaningful imbalance [[1]]
-# Preferred over p-values for descriptive tables in observational studies [[4]]
+# Threshold: SMD > 0.1 indicates meaningful imbalance
 
 calc_smd <- function(x, group, ref_level = "A1") {
   if (is.numeric(x)) {
