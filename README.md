@@ -68,14 +68,14 @@ This study investigates:
 
 ## Statistical Framework
 
+### Absolute Risk Estimation
+- G-computation
+- Population-standardised risk estimation
+- Risk differences and risk ratios
+
 ### Survival Modeling
 - Cause-specific Cox proportional hazards models
 - Competing-risk analysis framework
-
-### Absolute Risk Estimation
-- G-computation
-- Population-standardized risk estimation
-- Risk differences and risk ratios
 
 ### Missing Data
 - Multiple imputation by chained equations (MICE)
