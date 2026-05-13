@@ -80,17 +80,16 @@ thm <- theme_minimal(base_size = 11) +
   )
 
 endpoint_labels <- c(
-  cvd = "CVD",
-  acs = "ACS",
+  ascvd = "ASCVD",
   hf = "HF",
+  pad = "PAD",
+  acs = "ACS",
   af = "AF",
   stroke = "Stroke",
-  pad = "PAD",
   CVDp = "CVD+P",
   death = "Mortality"
 )
-
-outcome_order <- c("CVD", "ACS", "HF", "AF", "Stroke", "PAD", "CVD+P", "Mortality")
+outcome_order <- c("ASCVD", "HF", "PAD", "ACS","AF", "Stroke", "CVD+P", "Mortality")
 
 pretty_endpoint <- function(x) {
   ifelse(x %in% names(endpoint_labels), unname(endpoint_labels[x]), x)

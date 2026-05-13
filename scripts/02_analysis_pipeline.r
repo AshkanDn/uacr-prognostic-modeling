@@ -102,7 +102,7 @@ cov_full <- c(
 analysis_cov <- setdiff(cov_full, biomarkers)
 cov_demo <- c("age", "sex")
 cov_no_sex <- setdiff(cov_full, "sex")
-
+ 
 # Endpoint map (single source of truth)
 # CVD+P is treated as a competing-risk endpoint here.
 eps <- list(
