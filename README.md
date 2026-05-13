@@ -1,9 +1,8 @@
 # uACR and Multi-Domain Vascular Risk in Incident Type 2 Diabetes
 
 ![R](https://img.shields.io/badge/R-4.3+-blue)
-![Status](https://img.shields.io/badge/status-under_review-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
-
+![Status](https://img.shields.io/badge/Status-Under%20Review-orange)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 📌 Project Overview
 
