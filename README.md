@@ -4,7 +4,7 @@
 **⚠️ Under Review** - This research is currently under peer review. Results and specific findings are not yet publicly available.
 
 ## 🔍 Overview
-A population-based retrospective cohort study examining the prognostic value of baseline urinary albumin-to-creatinine ratio (uACR) for cardiovascular outcomes in newly diagnosed type 2 diabetes using linked primary and secondary care data from England (CPRD-GOLD, HES, ONS).
+A population-based retrospective cohort study examining the prognostic value of baseline urinary albumin-to-creatinine ratio (uACR) for Multi-domain clinical outcomes in newly diagnosed type 2 diabetes using linked primary and secondary care data from England (CPRD-GOLD, HES, ONS).
 
 ## 💡 Research Questions
 - Does baseline uACR predict multi-domain vascular outcomes in incident diabetes?
