@@ -1,0 +1,35 @@
+# R-specific
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Data files (NEVER upload patient data!)
+*.csv
+*.dta
+*.sav
+*.rds
+*.RData
+data/
+
+# Output directories
+acr_prognosis_final/
+output/
+results/
+figures/
+tables/
+bundles/
+logs/
+
+# Environment
+.Renviron
+renv/library/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.key
+*.pem
+credentials.R
