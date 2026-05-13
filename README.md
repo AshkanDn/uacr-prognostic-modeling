@@ -2,7 +2,7 @@
 
 ![R](https://img.shields.io/badge/R-4.3+-blue)
 ![Status](https://img.shields.io/badge/Status-Under%20Review-orange)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AshkanDn/uacr-prognostic-modeling/blob/dev/LICENSE)
 
 ## 📌 Project Overview
 
