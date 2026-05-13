@@ -4,7 +4,6 @@
 # Generates:
 #   - Table 1: Baseline Characteristics (with SMD)
 #   - Table 2: Event Counts & Incidence Rates
-# COMPLIANCE: STROBE
 ############################################################
 ############################################################
 
